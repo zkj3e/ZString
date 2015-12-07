@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.ncb
+src/ZString.suo
+src/ZString.vcproj.PC201412162208.Administrator.user
+*.suo
